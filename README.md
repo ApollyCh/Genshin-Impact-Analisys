@@ -1,4 +1,4 @@
-﻿# Genshin Impact Analisys
+﻿# Genshin Impact Analysis
  <img src='figs/archonts.jpg'>
 <h1> Project Overview </h1>
 Genshin Impact is one of the most popular games of recent years. It was created by Chinese company "Hoyoverse." There are almost 40 million people playing this game at the moment. Besides, Genshin Impact takes the best mobile game award every year. This means that the developers give players who do not have the opportunity to buy a computer to play using a smartphone.
